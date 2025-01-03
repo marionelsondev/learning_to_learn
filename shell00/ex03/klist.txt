@@ -1,0 +1,5 @@
+Ticket cache: FILE:/tmp/krb5cc_1000
+Default principal: dylan@LIFEISAGAME.COM
+
+Valid starting     Expires            Service principal
+01/02/25 22:32:11  01/03/25 22:32:11  krbtgt/LIFEISAGAME.COM@LIFEISAGAME.COM
